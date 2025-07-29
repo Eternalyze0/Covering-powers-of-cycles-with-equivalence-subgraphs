@@ -77,6 +77,13 @@ I will address the open problem of covering the k-th power of a cycle with equiv
 <img width="1558" height="722" alt="image" src="https://github.com/user-attachments/assets/7c78ab51-d2bc-47e9-9576-a6b2046ad364" />
 <img width="1608" height="1040" alt="image" src="https://github.com/user-attachments/assets/7025b24a-2833-4d79-9e8e-23d92060acf5" />
 
+## Basic Human Checks
+
+<img width="1848" height="4000" alt="image" src="https://github.com/user-attachments/assets/5988e0c3-2bdd-405b-bd38-4cc4918647f9" />
+<img width="1848" height="4000" alt="image" src="https://github.com/user-attachments/assets/5337cda7-99a4-4829-a8d6-eb81c55a9340" />
+
+
+
 
 
 
