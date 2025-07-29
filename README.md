@@ -9,6 +9,14 @@ Full thought process starts here: https://github.com/Eternalyze0/Covering-powers
 <img width="1578" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e080565-0907-4080-bed1-9cd47d3c40e5" />
 <img width="1572" height="684" alt="image" src="https://github.com/user-attachments/assets/4c0d9a48-2eb2-4083-9e71-51a6e421d799" />
 
+## Related Papers
+
+https://www.tau.ac.il/~nogaa/PDFS/Publications/Covering%20graphs%20by%20the%20minimum%20number%20of%20equivalence%20relations.pdf
+
+https://www.sciencedirect.com/science/article/pii/S0166218X10002751
+
+
+## Raw Text
 
 
 I will address the open problem of covering the k-th power of a cycle with equivalence subgraphs, applying heuristics from *Problem Solving Through Problems*. The problem asks for the minimum number of equivalence subgraphs (disjoint unions of cliques) needed to cover all edges of \(C_n^k\), the k-th power of a cycle of length \(n\).
