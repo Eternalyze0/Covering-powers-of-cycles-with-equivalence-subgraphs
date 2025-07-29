@@ -1,5 +1,8 @@
 # Covering-powers-of-cycles-with-equivalence-subgraphs
+
 DeepSeek r1 on an open math problem: http://www.openproblemgarden.org/op/covering_powers_of_cycles_with_equivalence_subgraphs
+
+Full thought process starts here: https://github.com/Eternalyze0/Covering-powers-of-cycles-with-equivalence-subgraphs/blob/main/full_convo.txt#L1704
 
 <img width="1578" height="688" alt="image" src="https://github.com/user-attachments/assets/0e674526-3bd5-4d9e-a8da-e6b2d63142f0" />
 
