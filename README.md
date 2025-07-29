@@ -4,7 +4,11 @@ DeepSeek r1 on an open math problem: http://www.openproblemgarden.org/op/coverin
 
 Full thought process starts here: https://github.com/Eternalyze0/Covering-powers-of-cycles-with-equivalence-subgraphs/blob/main/full_convo.txt#L1704
 
-<img width="1578" height="688" alt="image" src="https://github.com/user-attachments/assets/0e674526-3bd5-4d9e-a8da-e6b2d63142f0" />
+<img width="1564" height="994" alt="image" src="https://github.com/user-attachments/assets/2ff0b7cf-37c2-4857-ba77-2321387a2ae3" />
+<img width="1540" height="1020" alt="image" src="https://github.com/user-attachments/assets/b20e138e-e5a1-471e-a048-cb3b29c324b3" />
+<img width="1578" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e080565-0907-4080-bed1-9cd47d3c40e5" />
+<img width="1572" height="684" alt="image" src="https://github.com/user-attachments/assets/4c0d9a48-2eb2-4083-9e71-51a6e421d799" />
+
 
 
 I will address the open problem of covering the k-th power of a cycle with equivalence subgraphs, applying heuristics from *Problem Solving Through Problems*. The problem asks for the minimum number of equivalence subgraphs (disjoint unions of cliques) needed to cover all edges of \(C_n^k\), the k-th power of a cycle of length \(n\).
