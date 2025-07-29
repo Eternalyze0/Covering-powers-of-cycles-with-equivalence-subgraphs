@@ -69,3 +69,14 @@ I will address the open problem of covering the k-th power of a cycle with equiv
 **Why this solves the open problem**: The covering uses \(2k+1\) equivalence subgraphs, which is linear in \(k\), answering the question affirmatively. The construction is explicit and works for all \(n\) and \(k\). 
 
 > *Key insight*: Residue-based clique placement exploits cyclic symmetry, ensuring coverage while maintaining disjointness. The bound \(2k+1\) emerges naturally from the interval length needed to cover edges.
+
+## Rewrite
+
+<img width="1536" height="1126" alt="image" src="https://github.com/user-attachments/assets/6b6475a0-2fa2-421f-89d4-bf827794bcad" />
+<img width="1552" height="468" alt="image" src="https://github.com/user-attachments/assets/90d3703e-1503-4873-8392-03c24906f83d" />
+<img width="1558" height="722" alt="image" src="https://github.com/user-attachments/assets/7c78ab51-d2bc-47e9-9576-a6b2046ad364" />
+<img width="1608" height="1040" alt="image" src="https://github.com/user-attachments/assets/7025b24a-2833-4d79-9e8e-23d92060acf5" />
+
+
+
+
